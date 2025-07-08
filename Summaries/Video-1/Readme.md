@@ -24,16 +24,21 @@ This presentation provides an in-depth overview of various objects within the so
 
 ### FAQ
 Q1: What are the main components of the solar system described in the presentation?
+
 A1: The solar system includes the Sun, inner planets (Mercury, Venus, Earth, Mars), outer planets (Jupiter, Saturn, Uranus, Neptune), the asteroid belt, and dwarf planets like Pluto.
 
 Q2: Why is Pluto classified as a dwarf planet?
+
 A2: Pluto is classified as a dwarf planet because it does not meet the criteria established by the International Astronomical Union, particularly not having cleared its orbital region of other debris.
 
 Q3: How are solar system objects dated?
+
 A3: Solar system objects can be dated using radiometric dating, which analyzes the decay of radioactive isotopes found in those objects to determine their ages.
 
 Q4: What role do asteroids play in understanding the solar system's history?
+
 A4: Asteroids provide important samples from the early solar system, representing leftover material from planet formation and helping researchers study conditions during that time.
 
 Q5: What are some significant questions about Mars discussed in the video?
+
 A5: Key questions include the historical environment of Mars, whether it hosted life, the nature of changes in its atmosphere, and the geological characteristics observed today.
