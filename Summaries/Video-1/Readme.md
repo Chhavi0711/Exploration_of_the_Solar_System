@@ -3,17 +3,23 @@ This presentation provides an in-depth overview of various objects within the so
 ### Highlights
 
 ☀️ The solar system is composed of the Sun, inner planets, outer planets, and an asteroid belt.
+
 🌌 Formation of the solar system occurred about 4.56 billion years ago from a collapsing molecular cloud.
+
 🌍 The International Astronomical Union defines a planet, resulting in Pluto being classified as a dwarf planet.
+
 🚀 Dating of solar system objects can be accomplished through radiometric dating techniques.
+
 🌑 Asteroids are remnants from the planet formation process, providing insight into early solar system conditions.
-🔍 There is ongoing research into the possibility of life on Mars and the history of its atmosphere.
-🛰 Future missions aim to explore the Moon and Mars for valuable geological and biological information.
+
+🔍 There is ongoing research into the possibility of life on Mars and the history of its atmosphere.🛰 Future missions aim to explore the Moon and Mars for valuable geological and biological information.
 
 ### Key Insights
 
 🕰️ The use of radiometric dating methods helps determine the age and evolution of early solar system objects.
+
 🌍 The conditions that led to the formation of habitable environments on Earth differ significantly from those on Venus and Mars.
+
 🧪 The differentiation of solar system bodies influences their current geological characteristics and potential resource availability.
 
 ### FAQ
