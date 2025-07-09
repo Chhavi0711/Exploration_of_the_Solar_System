@@ -21,16 +21,22 @@ This lecture provides a comprehensive introduction to the solar system, focusing
 ## FAQ
 
 **Q1: What is the solar nebula?**
+
 A1: The solar nebula is a spinning disc formed from the collapse of an interstellar cloud of gas and dust, which eventually led to the creation of the solar system.
 
 **Q2: Why is the Sun important in the solar system?**
+
 A2: The Sun provides the necessary energy for life on Earth through nuclear fusion, influencing the behavior and conditions of other celestial bodies in the solar system.
 
 **Q3: What distinguishes terrestrial planets from gas giants?**
+
 A3: Terrestrial planets are rocky and solid (like Earth), while gas giants are primarily composed of gases and lack a solid surface (like Jupiter and Saturn).
 
 **Q4: What is the significance of the Goldilocks Zone?**
+
 A4: The Goldilocks Zone is the region around a star where conditions are just right for liquid water to exist, potentially allowing for life.
 
 **Q5: How do space missions contribute to our understanding of the solar system?**
-A5: Space missions provide direct data and observations of celestial bodies, enhancing our knowledge of their composition, behavior, and the characteristics of the solar system as a whole.
+
+A5: Space missions provide direct data and observations of celestial bodies, enhancing our 
+knowledge of their composition, behavior, and the characteristics of the solar system as a whole.
