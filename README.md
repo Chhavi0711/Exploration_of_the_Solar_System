@@ -1,5 +1,5 @@
 # Exploration_of_the_Solar_System
-Resources for the self project, Exploration of the Solar System-2024 done under the START online training program,, launched each year by ISRO.
+Resources for the self project, Exploration of the Solar System-2024 done under the START online training program, launched each year by ISRO.
 
 ## Description
 This project focused on gaining a foundational understanding of planetary science, space exploration, and celestial mechanics through ISRO’s START (Student Training and Research Through e-Learning Technologies) online program. The coursework covered a range of interdisciplinary space science topics. Students:
